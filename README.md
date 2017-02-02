@@ -1,7 +1,7 @@
 # CSCI-3308-LAB-3
 
 Tanay Choudhary
-Channing Hurley
+Partner: Channing Hurley
 
 Adding words
 
