@@ -1,0 +1,28 @@
+How many lines end with a number?
+
+
+How many lines do not start with a vowel?
+
+
+How many 12 letter (alphabet only) lines?
+
+
+How many phone numbers are in the dataset?
+
+ format: _ _ _-_ _ _-_ _ _ _
+
+
+How many city of Boulder phone numbers?
+
+ format: 303-_ _ _-_ _ _ _
+
+
+How many begin with a vowel and end with a number?
+
+
+How many email addresses are from geocities? (e.g. end with geocities.com)?
+
+
+How many incorrect email address are there (lines with an @ in it but formatted incorrectly)? An email address 
+has a user id and domain names can consist of letters, numbers, periods, and dashes. An email address has 
+to have a top-level domain (e.g. something.com).
